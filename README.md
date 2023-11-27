@@ -1,5 +1,7 @@
-# atividadeRicardo2-java
-atividade 2 - professor Ricardo Petri
+# Sistema bibliotecario
+Sistema bibliotecario usando orientação a objetos - linguagem de programação JAVA
+
+Trabalho da faculdade - aula de lógica de programação
 
 Para acessar o trabalho: 
 untitled/src/Atividade2
